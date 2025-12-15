@@ -42,7 +42,7 @@ Delete: Remove favorites
 2. flutter run
 
 # Author
-R.A.Samindi Ranaweera
+R.A.Samindi Imeshka Anjalee Ranaweera
 
 
 
