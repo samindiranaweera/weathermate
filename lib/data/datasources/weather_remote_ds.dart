@@ -9,7 +9,7 @@ import '../models/forecast_model.dart';
 class WeatherRemoteDataSource {
   final Dio dio;
 
-  final String apiKey = '933a547a344bc978bf44d2825580cd29';
+  final String apiKey = '124ddd4f86c93f5f4896dcff51f53546';
   final String baseUrl = 'https://api.openweathermap.org/data/2.5';
 
   WeatherRemoteDataSource(this.dio);
